@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="2.0">
   <head>
-    <title>AI News Radar RSS Example</title>
+    <title>AI News Radar — Skill / Agent / MCP Focus</title>
   </head>
   <body>
     <outline text="Official AI Sources">
@@ -39,6 +39,43 @@
         type="rss"
         xmlUrl="https://blogs.microsoft.com/ai/feed/"
         htmlUrl="https://blogs.microsoft.com/ai/"
+      />
+    </outline>
+    <outline text="Skill &amp; Agent &amp; MCP">
+      <outline
+        text="MCP Official Blog"
+        title="MCP Official Blog"
+        type="rss"
+        xmlUrl="https://blog.modelcontextprotocol.io/index.xml"
+        htmlUrl="https://blog.modelcontextprotocol.io"
+      />
+      <outline
+        text="CrewAI Blog"
+        title="CrewAI Blog"
+        type="rss"
+        xmlUrl="https://blog.crewai.com/rss/"
+        htmlUrl="https://blog.crewai.com"
+      />
+      <outline
+        text="MCP Specification Releases"
+        title="MCP Specification Releases"
+        type="rss"
+        xmlUrl="https://github.com/modelcontextprotocol/modelcontextprotocol/releases.atom"
+        htmlUrl="https://github.com/modelcontextprotocol/modelcontextprotocol/releases"
+      />
+      <outline
+        text="OpenAI Agents SDK Releases"
+        title="OpenAI Agents SDK Releases"
+        type="rss"
+        xmlUrl="https://github.com/openai/openai-agents-python/releases.atom"
+        htmlUrl="https://github.com/openai/openai-agents-python/releases"
+      />
+      <outline
+        text="Claude Code Releases"
+        title="Claude Code Releases"
+        type="rss"
+        xmlUrl="https://github.com/anthropics/claude-code/releases.atom"
+        htmlUrl="https://github.com/anthropics/claude-code/releases"
       />
     </outline>
     <outline text="AI Media and Builders">
