@@ -18594,5 +18594,21 @@
   "GPT-5.2 and GPT-5.2-Codex deprecated": "GPT-5.2 和 GPT-5.2-Codex 已弃用",
   "Texas is America Inc's new centre of gravity": "德克萨斯州是美国公司的新重心",
   "P/E Tells You the Price. Reality Gap Tells You the Delusion": "市盈率告诉您价格。现实差距告诉你错觉",
-  "As EV batteries improve, ChargePoint debuts 600 kW fast charger": "随着电动汽车电池的改进，ChargePoint 推出 600 kW 快速充电器"
+  "As EV batteries improve, ChargePoint debuts 600 kW fast charger": "随着电动汽车电池的改进，ChargePoint 推出 600 kW 快速充电器",
+  "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic": "标准普尔 500 指数拒绝 SpaceX，还阻止 OpenAI 和 Anthropic 进入",
+  "'Elon Musk said he thinks humanoid robots will be in many homes in three years, and I agree with him.' I sat down with Jake Dyson to hear his predictions for AI and robotics in your home — and why you shouldn't throw out your stick vac just yet": "“埃隆·马斯克说，他认为三年内人形机器人将进入许多家庭，我同意他的观点。”我与杰克·戴森 (Jake Dyson) 坐下来，听听他对家中人工智能和机器人技术的预测，以及为什么你还不应该扔掉你的手持式吸尘器",
+  "Inside the Trump admin's push to integrate AI into the healthcare system, including an FDA regulatory fast track for digital health tech like AI chatbots (Elizabeth Dwoskin/Washington Post)": "特朗普政府推动人工智能融入医疗保健系统，包括 FDA 对人工智能聊天机器人等数字健康技术的快速监管（Elizabeth Dwoskin/华盛顿邮报）",
+  "Paris-listed Teleperformance, the world's largest customer service company, has become one of Europe's most shorted stocks, as hedge funds bet on AI disruption (Ramsay Hodgson/Financial Times)": "随着对冲基金押注人工智能颠覆，在巴黎上市的全球最大客户服务公司 Teleperformance 已成为欧洲最受做空的股票之一（Ramsay Hodgson/《金融时报》）",
+  "The back cover of C++: The Language raises questions not answered by front cover": "C++ 的封底：该语言提出了封面未回答的问题",
+  "Coding is basically the pinnacle of what you could reasonably automate with AI, and yet we still need human engineers to oversee agents for them to be effective. The AI models are trained on an incredible amount of so...": "编码基本上是人工智能合理自动化的顶峰，但我们仍然需要人类工程师来监督代理以使其有效。人工智能模型接受了大量的训练......",
+  "We doubled Claude Cowork usage limits for the next month. This applies to your 5-hr rate limits. If you’ve been saving up a big messy project, now’s the time. https://t.co/qwjn8cVTUk": "我们将下个月的 Claude Cowork 使用限制增加了一倍。这适用于您的 5 小时费率限制。如果你一直在攒一个大而混乱的项目，现在就是时候了。 https://t.co/qwjn8cVTUk",
+  "One of the most common mistakes I see enterprise AI teams make is building for today’s model capabilities and price points. Think 6 months out. Models will be way smarter and cheaper. Scaffold around today’s model wea...": "我看到企业人工智能团队最常犯的错误之一是针对当今的模型功能和价格点进行构建。想想6个月后。模型将变得更加智能、更加便宜。围绕当今模型设备的脚手架...",
+  "Live now on all paid plans through July 5. Download the Claude desktop app to give Cowork a try: https://t.co/EYHUToV3eS": "现在所有付费计划均可享受 7 月 5 日之前的服务。下载 Claude 桌面应用程序来尝试 Cowork：https://t.co/EYHUToV3eS",
+  "We've doubled usage limits in Claude Cowork for the next month. Delegate bigger, more complex tasks to Claude. https://t.co/ivHZuaMbZV": "我们将下个月 Claude Cowork 的使用限制增加了一倍。将更大、更复杂的任务委托给克劳德。 https://t.co/ivHZuaMbZV",
+  "Warren's Abstract Machine: A Tutorial Reconstruction": "沃伦的抽象机器：教程重建",
+  "Agent filesystem state can now be read, written and mounted independently of Sandbox lifecycle. We’ve been developing a novel virtual storage infrastructure solution for all our compute products. Storage that’s decoup...": "现在可以独立于沙箱生命周期来读取、写入和安装代理文件系统状态。我们一直在为我们所有的计算产品开发一种新颖的虚拟存储基础设施解决方案。存储是解耦的...",
+  "Codex papercuts 📉 Codex adoption 📈 https://t.co/KwVlGIB9ed": "Codex 剪纸📉 Codex 采用 📈 https://t.co/KwVlGIB9ed",
+  "Better memory = Shorter prompts = More utility per token https://t.co/IT5h4ZSbEl": "更好的记忆 = 更短的提示 = 每个代币更多实用性 https://t.co/IT5h4ZSbEl",
+  "we'll have the full workflow and prompts available to @every subscribers soon: https://t.co/9wRhOCUCAk": "我们很快就会向@every 订阅者提供完整的工作流程和提示：https://t.co/9wRhOCUCAk",
+  "How to build AI skills that check their own work and improve over time: 1. Give it context Ask AI: \"Create a skill for this [repeated task]. Here are examples of good output so it knows what good looks like.\" 2. Make...": "如何构建 AI 技能来检查自己的工作并随着时间的推移而改进： 1. 为其提供上下文 询问 AI：“为此 [重复任务] 创建一项技能。以下是良好输出的示例，以便它知道什么是好的输出。” 2. 使..."
 }
