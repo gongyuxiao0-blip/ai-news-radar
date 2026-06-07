@@ -1,50 +1,35 @@
 {
-  "generated_at": "2026-06-07T15:54:18.489061Z",
+  "generated_at": "2026-06-07T17:22:48.801107Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-06-06",
-  "count_today": 7,
+  "latest_date": "2026-06-07",
+  "count_today": 2,
   "updates_today": [
     {
-      "date": "2026-06-06",
-      "title": "这次对话采访了在Anthropic负责Claude Code和Claude co-work设计的Meaghan Choi。她也亲历了Claude Code从内部小项目变成全球热门开发工具的过程。本期更像一份产品团队改造现场记录：角色边界、质量门槛、企业采用和 ROI，都被放进Claude Code的实际工作法里，尤其适合正在重写团队流程、评估AI工具落地的人读。",
+      "date": "2026-06-07",
+      "title": "本周汇总的十篇顶尖AI论文，聚焦智能体、模型训练、科学推理等热门领域，刷新了不少行业的固有认知。多项研究证明，AI能力突破的关键是框架设计、反馈优化与系统交互策略，而非一味增加大模型、堆叠智能体数量。文中还有上下文治理、状态外置、新型表征学习等实用技术方案，配套专业基准测试与推理数据体系梳理。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-06-06",
-      "title": "这次AI切磋大会，我们也把主题定为了「Codex轻造物局」，让大家聚到线下，一起看看90分钟能做出什么有意思的东西。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-06",
-      "title": "这场访谈对话揭秘了WaytoAGI从零崛起的故事，社区一直秉持免费开源理念，靠爱好者自发共建运营，落地了全国50+城线下活动、海外创客营地等等。这次对话中AJ分享了个人从业心态、AI行业趋势判断，以及普通人零基础入局的可行路径，也为AI学习者、独立创业者提供了真实参考与成长思路。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-06",
-      "title": "最近“画线控制镜头”的AI视频玩法很有趣，但它对于涉及运镜顺序、位置顺序、时间顺序的镜头，比较考验提示词能力，镜头很难按你脑子里的轨迹跑。小歪给大家整理出了这篇教程，手把手带大家看看到底怎么做 （文末还很多不同的扩展玩法示例和bug解决方案）。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-06",
-      "title": "如果你参与了文博会全球AI切磋盛典，不论你在台上还是幕后，在展区还是后勤，在策划组还是临时补位，这篇文章为你而写。如果你没有参与这场活动，但你在意一场复杂活动背后到底是谁在撑，这篇文章带你走一遍完整的执行链，还原每一种角色真实的样子。如果你在运营一个社区或者组织活动，这篇文章给你一套可以带走的方法：如何让那些不在聚光灯下的人，真正被看见。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-06",
-      "title": "如果你也想要做AI工具出海却一直找不到起步方向，这篇文章或许能帮助到你。先切入小众细分赛道，然后借助广告、社群快速验证目标客户，通过深挖付费用户信息来精准锁定真实需求。另外从产品和流量双向拆解竞品数据，这样定出来的目标才是有对标、有路径、有节奏的 SEO 增长计划。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-06",
-      "title": "一个月，接近 60K GitHub Star，全球30多个国家用户，340名贡献者，这个项目叫Open Design。这个数字放在Github开源历史上，20 天达到 50k Star + 的项目中，能排进全球前十。这次「未来硅世界 」 第17期直播邀请到Open Design 的创始人Tom聊了产品本身、技术路线、开源哲学，以及一些很少被公开讨论的实践细节。",
+      "date": "2026-06-07",
+      "title": "今年 4 月作者组装了一台小机器狗，从买零件、装结构，到最后它能听懂指令、走两步、还能对话几句。这篇文章写了这台机器狗的创造过程以及作者基于公开论文、官方博客、开源项目和第三方资料整理的学习笔记，希望能给在 AI 之外、也想了解具身智能的朋友，多一个工程师视角。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 39,
+  "count_7d": 34,
   "updates_7d": [
+    {
+      "date": "2026-06-07",
+      "title": "本周汇总的十篇顶尖AI论文，聚焦智能体、模型训练、科学推理等热门领域，刷新了不少行业的固有认知。多项研究证明，AI能力突破的关键是框架设计、反馈优化与系统交互策略，而非一味增加大模型、堆叠智能体数量。文中还有上下文治理、状态外置、新型表征学习等实用技术方案，配套专业基准测试与推理数据体系梳理。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-07",
+      "title": "今年 4 月作者组装了一台小机器狗，从买零件、装结构，到最后它能听懂指令、走两步、还能对话几句。这篇文章写了这台机器狗的创造过程以及作者基于公开论文、官方博客、开源项目和第三方资料整理的学习笔记，希望能给在 AI 之外、也想了解具身智能的朋友，多一个工程师视角。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-06-06",
       "title": "这次对话采访了在Anthropic负责Claude Code和Claude co-work设计的Meaghan Choi。她也亲历了Claude Code从内部小项目变成全球热门开发工具的过程。本期更像一份产品团队改造现场记录：角色边界、质量门槛、企业采用和 ROI，都被放进Claude Code的实际工作法里，尤其适合正在重写团队流程、评估AI工具落地的人读。",
@@ -203,41 +188,6 @@
     {
       "date": "2026-06-02",
       "title": "市面上的 Dify、n8n，包括各种智能体框架，到底有什么区别？表面上是在问“工具差别”，本质上其实是在问另一件更重要的事：今天大家口中的“智能体”，到底是什么？它和过去那一波 ChatBot、工作流、应用平台之间，边界又在哪里？所以今天这篇文章，作者想做一件对小白真正有帮助的事：把“智能体”这件事的发展脉络，尽可能讲清楚。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-01",
-      "title": "这份实操指南手把手带你快速在Codex接入大模型API。依托GeneralCompute平台自带的协议转换能力，整套流程省去了中继服务部署步骤，降低了接入成本。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-01",
-      "title": "近期AI音乐领域迎来产品、版权、技术多维度变革。文本生歌玩法在海外社交平台爆火，大幅降低音乐创作门槛。行业版权博弈持续升级，平台与工具方纷纷推出合规检测、侵权清理方案。多款AI音乐、音效工具完成功能迭代与降价，实时音频引擎更是实现技术突破。同时多篇前沿论文补齐音乐转录、音频编辑等技术短板。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-01",
-      "title": "扣子3.0全新升级，开启人和 Agent 协作新方式，提供了一支可以被选择、创建、托管、协作，并持续进入真实工作场景的 AI 团队，在这里打造你的新一代 AI 团队。同时扣子带来了全新电脑桌面端、手机 App端，把 Agent 带进更完整的工作现场：你可以在网页端创建和管理任务，在桌面端连接本地文件，也可以在扣子手机 App 继续推进任务。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-01",
-      "title": "当下AI 圈内火热的Harness Engineering已经在 Claude Code、Codex、Qoder 这类 AI Coding Agent 里逐步落地。作者这篇文章就把这个 Harness Coding 在企业场景中如何运用的具体实践给分享了一下。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-01",
-      "title": "向阳乔木依托Codex自研了多款免费开源工具，覆盖浏览器插件、各种实用网站与Agent专属Skill，全方位适配创作、开发、学习多类场景。文末附带调教Codex 、AI 一键做 PPT 两大实操窍门，更有全套 GEO 系列资料，不容错过！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-01",
-      "title": "作者开源了一款专为个人开发者、初创团队量身打造的隐私协议生成器，破解了照搬模板、AI生成协议漏洞百出的行业通病。依托现行法规，经由产品信息采集、合规核验再输出文稿，补齐第三方SDK、数据跨境、用户注销、AI训练规则等关键条款，同步附带自查清单与优化备注。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-01",
-      "title": "从印度头部支付平台创始人的实战访谈切入，本篇文章戳破了当下创业者的普遍误区：AI极速压缩开发周期，靠代码搭建构筑的壁垒早已不复存在。作者拆解出监管准入、客户信任、创始人对行业的深度洞察这三大 AI 无法复刻的核心壁垒，还以企业早期逆势押注 UPI 的真实案例，诠释了小公司非对称布局的独特优势。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
