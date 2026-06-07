@@ -1,25 +1,55 @@
 {
-  "generated_at": "2026-06-07T17:22:48.801107Z",
+  "generated_at": "2026-06-07T18:49:39.328066Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-06-07",
-  "count_today": 2,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-06-07",
+      "title": "这篇文章作者把写 Skill 踩过的坑、总结出的经验，再加上 Anthropic 官方的一些好做法，整理到了一起。希望能帮你少走弯路，把团队积累的知识真正\"喂\"给 AI，让它干活更靠谱。 本文示例以 Go 语言为主，兼顾 Python、Java 等语言，所有原则和技巧适用于任何编程语言。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-07",
+      "title": "这一期采访的是 Tony Fadell，他参与创造了 iPod、iPhone 和 Nest 恒温器，拥有 300 多项专利，也写过一本面向产品人的书《Build》。这次对话横跨 iPhone 虚拟键盘、Nest 烟雾报警器、AI 硬件、深科技投资和产品伦理。对正在用 AI 做产品的人来说，本期对话最有价值的主线很锋利：AI 让构建变得便宜，产品人的品味、判断力、故事能力和责任感反而更贵。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-07",
       "title": "本周汇总的十篇顶尖AI论文，聚焦智能体、模型训练、科学推理等热门领域，刷新了不少行业的固有认知。多项研究证明，AI能力突破的关键是框架设计、反馈优化与系统交互策略，而非一味增加大模型、堆叠智能体数量。文中还有上下文治理、状态外置、新型表征学习等实用技术方案，配套专业基准测试与推理数据体系梳理。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
       "date": "2026-06-07",
+      "title": "如果你在做设计、写内容、做课件、搭建网页主题，常常需要一套稳妥、好看、能直接使用的中国色参考，这个仓库就是为这件事整理的。这里收录 742 张中华传统色高清色卡，已按原始 742 色清单完整覆盖。每张色卡包含色名、HEX、RGB、CMYK、配色推荐和气质关键词。你可以在线浏览，也可以下载 ZIP，把它当作自己的传统色素材库。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-07",
       "title": "今年 4 月作者组装了一台小机器狗，从买零件、装结构，到最后它能听懂指令、走两步、还能对话几句。这篇文章写了这台机器狗的创造过程以及作者基于公开论文、官方博客、开源项目和第三方资料整理的学习笔记，希望能给在 AI 之外、也想了解具身智能的朋友，多一个工程师视角。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-07",
+      "title": "一个好的system prompt，会把 Claude 从通用聊天机器人变成专门领域的专家，在你开口之前就知道你真正需要什么。过去几个月，作者一直在构建、测试、精炼 system prompt。下面是他经常使用的 30 个。每一个都对应一个具体使用场景。把适合你workflow的拿走即可。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 34,
+  "count_7d": 38,
   "updates_7d": [
+    {
+      "date": "2026-06-07",
+      "title": "这篇文章作者把写 Skill 踩过的坑、总结出的经验，再加上 Anthropic 官方的一些好做法，整理到了一起。希望能帮你少走弯路，把团队积累的知识真正\"喂\"给 AI，让它干活更靠谱。 本文示例以 Go 语言为主，兼顾 Python、Java 等语言，所有原则和技巧适用于任何编程语言。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-07",
+      "title": "这一期采访的是 Tony Fadell，他参与创造了 iPod、iPhone 和 Nest 恒温器，拥有 300 多项专利，也写过一本面向产品人的书《Build》。这次对话横跨 iPhone 虚拟键盘、Nest 烟雾报警器、AI 硬件、深科技投资和产品伦理。对正在用 AI 做产品的人来说，本期对话最有价值的主线很锋利：AI 让构建变得便宜，产品人的品味、判断力、故事能力和责任感反而更贵。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-06-07",
       "title": "本周汇总的十篇顶尖AI论文，聚焦智能体、模型训练、科学推理等热门领域，刷新了不少行业的固有认知。多项研究证明，AI能力突破的关键是框架设计、反馈优化与系统交互策略，而非一味增加大模型、堆叠智能体数量。文中还有上下文治理、状态外置、新型表征学习等实用技术方案，配套专业基准测试与推理数据体系梳理。",
@@ -27,7 +57,17 @@
     },
     {
       "date": "2026-06-07",
+      "title": "如果你在做设计、写内容、做课件、搭建网页主题，常常需要一套稳妥、好看、能直接使用的中国色参考，这个仓库就是为这件事整理的。这里收录 742 张中华传统色高清色卡，已按原始 742 色清单完整覆盖。每张色卡包含色名、HEX、RGB、CMYK、配色推荐和气质关键词。你可以在线浏览，也可以下载 ZIP，把它当作自己的传统色素材库。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-07",
       "title": "今年 4 月作者组装了一台小机器狗，从买零件、装结构，到最后它能听懂指令、走两步、还能对话几句。这篇文章写了这台机器狗的创造过程以及作者基于公开论文、官方博客、开源项目和第三方资料整理的学习笔记，希望能给在 AI 之外、也想了解具身智能的朋友，多一个工程师视角。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-07",
+      "title": "一个好的system prompt，会把 Claude 从通用聊天机器人变成专门领域的专家，在你开口之前就知道你真正需要什么。过去几个月，作者一直在构建、测试、精炼 system prompt。下面是他经常使用的 30 个。每一个都对应一个具体使用场景。把适合你workflow的拿走即可。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
