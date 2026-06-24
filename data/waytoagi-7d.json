@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T17:59:53.801396Z",
+  "generated_at": "2026-06-24T20:01:13.537958Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-06-24",
-  "count_today": 5,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-06-24",
@@ -15,6 +15,11 @@
     {
       "date": "2026-06-24",
       "title": "想知道Seedance 2.0原生4K画质值不值得投入高额成本？小歪消耗大量积分完成720P与4K画质五组场景的对照测试，涵盖产品广告、古装、灾难短片等商用常用题材。4K成片细节质感提升显著，但成本门槛很高，15秒短片折算成本近百元，普通用户很难高频使用。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-24",
+      "title": "定时任务经常静默失效、无效重复执行？Loop Engineering可以解决传统静态定时Agent的痛点，将单次提示词升级为可以自主判断、自检迭代的智能循环体系。有一个开源项目提供了五大核心模块、七套成熟生产模板，搭配三条CLI工具完成初始化、成本预估与环境检测，还设计了L1-L3分级放权机制，循序渐进放开自动化权限规避风险。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -33,7 +38,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 35,
+  "count_7d": 36,
   "updates_7d": [
     {
       "date": "2026-06-24",
@@ -43,6 +48,11 @@
     {
       "date": "2026-06-24",
       "title": "想知道Seedance 2.0原生4K画质值不值得投入高额成本？小歪消耗大量积分完成720P与4K画质五组场景的对照测试，涵盖产品广告、古装、灾难短片等商用常用题材。4K成片细节质感提升显著，但成本门槛很高，15秒短片折算成本近百元，普通用户很难高频使用。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-24",
+      "title": "定时任务经常静默失效、无效重复执行？Loop Engineering可以解决传统静态定时Agent的痛点，将单次提示词升级为可以自主判断、自检迭代的智能循环体系。有一个开源项目提供了五大核心模块、七套成熟生产模板，搭配三条CLI工具完成初始化、成本预估与环境检测，还设计了L1-L3分级放权机制，循序渐进放开自动化权限规避风险。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
