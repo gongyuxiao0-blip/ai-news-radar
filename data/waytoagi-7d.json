@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-06-30T17:24:47.780988Z",
+  "generated_at": "2026-06-30T19:20:15.160391Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-06-30",
-  "count_today": 5,
+  "count_today": 6,
   "updates_today": [
+    {
+      "date": "2026-06-30",
+      "title": "随着模型和Harness逐步趋同，真正决定Agent能力边界的，会越来越是Context。未来，模型能力会不断提升，Harness会越来越趋同。谁拥有更高质量、更完整、更实时更新的Context，谁就能形成复利，并取得更多价值。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-06-30",
       "title": "很多人用AI做PPT都会踩坑：文字模糊、不能加动画，反复修改还容易耗尽模型上下文。作者小水借助Codex打造了一个专属PPT技能库，收纳了12套完整HTML演示模板，覆盖学生作业、职场汇报、政企宣讲、个人作品集等常见场景。跳出单纯生成静态图片的局限，产出的PPT可以自由编辑、添加动态效果。",
@@ -33,8 +38,13 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 31,
+  "count_7d": 32,
   "updates_7d": [
+    {
+      "date": "2026-06-30",
+      "title": "随着模型和Harness逐步趋同，真正决定Agent能力边界的，会越来越是Context。未来，模型能力会不断提升，Harness会越来越趋同。谁拥有更高质量、更完整、更实时更新的Context，谁就能形成复利，并取得更多价值。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-06-30",
       "title": "很多人用AI做PPT都会踩坑：文字模糊、不能加动画，反复修改还容易耗尽模型上下文。作者小水借助Codex打造了一个专属PPT技能库，收纳了12套完整HTML演示模板，覆盖学生作业、职场汇报、政企宣讲、个人作品集等常见场景。跳出单纯生成静态图片的局限，产出的PPT可以自由编辑、添加动态效果。",
