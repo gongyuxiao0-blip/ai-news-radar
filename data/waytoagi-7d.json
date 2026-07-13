@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T16:37:10.265361Z",
+  "generated_at": "2026-07-13T18:45:34.424252Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-13",
-  "count_today": 5,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-07-13",
@@ -15,6 +15,11 @@
     {
       "date": "2026-07-13",
       "title": "本周的AI音乐周刊，内容覆盖各类开源音频模型、主流生产力工具升级与全球版权规范。英伟达、Mirelo 等放出多模态音频、混音扒谱、司法级语音修复开源模型；FL Studio、Audiotool、Suno 更新了多人在线编曲、专属文风歌词克隆等等功能；此外Vobile 推出首个 AI 歌曲检测 MCP 服务；八大音乐机构推出统一的AI 歌曲标注规范；更有多篇有关音乐生成、音频评测领域的论文相继发布。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-13",
+      "title": "最近大家对WorkBuddy的兴趣越来越高，但教程散落、新用户想系统学一遍，得自己到处翻。于是甲木和刘聪、苍何、袋鼠帝、摸鱼小李一起把真实任务、实战案例和踩坑经验整理成了一份WorkBuddy开源蓝皮书，希望大家也能真正照着用起来。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -33,7 +38,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 37,
   "updates_7d": [
     {
       "date": "2026-07-13",
@@ -43,6 +48,11 @@
     {
       "date": "2026-07-13",
       "title": "本周的AI音乐周刊，内容覆盖各类开源音频模型、主流生产力工具升级与全球版权规范。英伟达、Mirelo 等放出多模态音频、混音扒谱、司法级语音修复开源模型；FL Studio、Audiotool、Suno 更新了多人在线编曲、专属文风歌词克隆等等功能；此外Vobile 推出首个 AI 歌曲检测 MCP 服务；八大音乐机构推出统一的AI 歌曲标注规范；更有多篇有关音乐生成、音频评测领域的论文相继发布。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-13",
+      "title": "最近大家对WorkBuddy的兴趣越来越高，但教程散落、新用户想系统学一遍，得自己到处翻。于是甲木和刘聪、苍何、袋鼠帝、摸鱼小李一起把真实任务、实战案例和踩坑经验整理成了一份WorkBuddy开源蓝皮书，希望大家也能真正照着用起来。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
