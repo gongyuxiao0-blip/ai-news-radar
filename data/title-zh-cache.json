@@ -27072,5 +27072,11 @@
   "One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM needs more bits to understand what you're trying to achieve, but you're too lazy to type them. In these cases I like to...": "我发现对法学硕士有用的一种模式是长时间的漫步课程。有时，法学硕士需要更多的信息来理解您想要实现的目标，但您却懒得输入它们。在这些情况下，我喜欢...",
   "10M! New day, new usage reset for paid users of Codex and ChatGPT Work. Lands in the next hour. Enjoy. https://t.co/VUJ4S3vKDG": "10M！新的一天，Codex 和 ChatGPT Work 付费用户的新使用重置。下一小时后着陆。享受。 https://t.co/VUJ4S3vKDG",
   "New in Claude Cowork: teach Claude a skill. Record your screen while you do a task, talk through it as you go, and Claude turns it into a skill it can run again. Find it under Record a skill in the + menu of the Claud...": "Claude Cowork 新增功能：教 Claude 一项技能。当你做某项任务时录制你的屏幕，边做边谈论它，然后克劳德将其转化为可以再次运行的技能。在 Claud 的 + 菜单中的“记录技能”下找到它...",
-  "Seems like we went from OpenAI vs. Anthropic to geopolitics overnight. Or maybe it was geopolitics all along.": "似乎我们一夜之间就从 OpenAI 与 Anthropic 的对抗转向了地缘政治。或者也许一直都是地缘政治。"
+  "Seems like we went from OpenAI vs. Anthropic to geopolitics overnight. Or maybe it was geopolitics all along.": "似乎我们一夜之间就从 OpenAI 与 Anthropic 的对抗转向了地缘政治。或者也许一直都是地缘政治。",
+  "Codeberg: ToU extension to prohibit LLM-extrusions": "Codeberg：禁止 LLM 挤压的 ToU 扩展",
+  "Codeberg bans vibe coded projects": "Codeberg 禁止使用 vivi 编码的项目",
+  "The US has collected about $13B of Venezuela's oil money. Where is it?": "美国已经从委内瑞拉的石油资金中收取了大约 13B 美元。它在哪里？",
+  "Never Enough": "永远不够",
+  "Gigatoken: Fastest Tokenizer": "Gigatoken：最快的标记器",
+  "GitHub suddenly rejected my SSH key (the fix was a .pub file?)": "GitHub 突然拒绝了我的 SSH 密钥（修复是 .pub 文件？）"
 }
