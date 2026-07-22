@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-07-22T16:56:30.436360Z",
+  "generated_at": "2026-07-22T18:14:15.853879Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-22",
-  "count_today": 4,
+  "count_today": 5,
   "updates_today": [
+    {
+      "date": "2026-07-22",
+      "title": "最近ChatCut很火，黄叔研究了一下它的整个迭代历程：从PaperCut把文字变成剪辑对象，到对话剪辑、AI生成MG，再到通用剪辑Agent，最后接入Codex / ChatGPT，变成背后的专业执行层。发现真正值得琢磨的是专业软件的新护城河：可调用、可观察、可编辑、可接管。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-07-22",
       "title": "很多创业复盘最容易变成“成功学清单”，看完很燃，但是最后还是不知道该抓什么。Founders播客主理人David Senra的这期访谈适合创始人、AI 产品人、开发者和长期做内容/项目的人看。一起来看看他在研究了400多位创始人后学到了什么！",
@@ -28,8 +33,13 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 34,
+  "count_7d": 35,
   "updates_7d": [
+    {
+      "date": "2026-07-22",
+      "title": "最近ChatCut很火，黄叔研究了一下它的整个迭代历程：从PaperCut把文字变成剪辑对象，到对话剪辑、AI生成MG，再到通用剪辑Agent，最后接入Codex / ChatGPT，变成背后的专业执行层。发现真正值得琢磨的是专业软件的新护城河：可调用、可观察、可编辑、可接管。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-07-22",
       "title": "很多创业复盘最容易变成“成功学清单”，看完很燃，但是最后还是不知道该抓什么。Founders播客主理人David Senra的这期访谈适合创始人、AI 产品人、开发者和长期做内容/项目的人看。一起来看看他在研究了400多位创始人后学到了什么！",
