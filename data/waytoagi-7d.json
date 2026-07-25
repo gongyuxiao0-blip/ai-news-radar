@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-07-25T19:13:40.352342Z",
+  "generated_at": "2026-07-25T20:27:56.499723Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-25",
-  "count_today": 4,
+  "count_today": 5,
   "updates_today": [
+    {
+      "date": "2026-07-25",
+      "title": "终端 Agent 没那么神秘，这篇把底层逻辑讲得很清晰：模型负责判断，本地负责执行，结果再回到模型继续推理；跑不动就停。Pi 默认只给模型四个工具：read、write、edit、bash。想看懂Agent怎么从一句话跑成一次本地操作，这篇值得读一遍。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-07-25",
       "title": "现在很多 Agent Demo 能调用工具、能跑流程，但一接真实业务系统就会暴露硬问题：谁能调用什么、按什么顺序调用、危险操作怎么拦，光靠 prompt 约束很容易失控。腾讯云的这套四层落地架构，为规模化、安全可控的企业Agent落地提供了一个完整可复用的工程模板。",
@@ -28,8 +33,13 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 33,
+  "count_7d": 34,
   "updates_7d": [
+    {
+      "date": "2026-07-25",
+      "title": "终端 Agent 没那么神秘，这篇把底层逻辑讲得很清晰：模型负责判断，本地负责执行，结果再回到模型继续推理；跑不动就停。Pi 默认只给模型四个工具：read、write、edit、bash。想看懂Agent怎么从一句话跑成一次本地操作，这篇值得读一遍。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-07-25",
       "title": "现在很多 Agent Demo 能调用工具、能跑流程，但一接真实业务系统就会暴露硬问题：谁能调用什么、按什么顺序调用、危险操作怎么拦，光靠 prompt 约束很容易失控。腾讯云的这套四层落地架构，为规模化、安全可控的企业Agent落地提供了一个完整可复用的工程模板。",
