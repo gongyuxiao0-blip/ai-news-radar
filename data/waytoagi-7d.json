@@ -1,55 +1,25 @@
 {
-  "generated_at": "2026-07-30T13:07:18.950044Z",
+  "generated_at": "2026-07-30T15:32:36.054144Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-07-29",
-  "count_today": 8,
+  "latest_date": "2026-07-30",
+  "count_today": 1,
   "updates_today": [
     {
-      "date": "2026-07-29",
-      "title": "现在聊大模型，很多人一头扎进参数、架构和算力。但这篇文章有个很妙的观察：AI核心圈越来越像一份“物理系就业报告”。文章从 Anthropic、Scaling Laws、ImageNet、扩散模型、grokking 等例子切入，拆解了物理训练为什么在今天变得值钱：会把复杂系统压成少数关键变量，会用实验和测量逼出现象，也敢承认理论边界。读完你或许会更理解，大模型正在变成一门研究“人造自然”的实验科学。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "每天在X上刷 AI 信息，最烦的不是看不到好东西，而是刷完就散了：论文、工具、工作流都收藏一堆，回头想找又像大海捞针。作者开源了一个 x-scan Skill，可以让Agent打开独立 Chrome 浏览器扫描X信息流或关键词搜索，按AI相关词初筛，再用Tweet ID去重，最后把作者、正文、数据和链接保存成Markdown，丢进 Obsidian或其他知识库应用。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "晚点今天发了篇对 陈冕 的专访，作者围绕 LibTV、Lovart、融资、抄袭争议和 AI 应用竞争的高能表达整理成 66 条。来一起看看！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "怎么让不同模型各干最适合自己的活呢？卡尔把之前的 partner-skill 升级到2.0，拆成了deep_reasoner、fast_worker、arbiter三种身份：一个做深度规划，一个快速执行，一个独立仲裁。不同项目还能分别绑定Fable5、Opus5、GPT 5.6等模型，并用均衡、质量优先、省钱优先三套策略控制成本，把每个Token都花在刀刃上。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "很多人做个人主页、产品首页都会存在一个问题：信息都有，但没记忆点，动效也只是装饰。成峰复刻了一条 4000赞的动态博客首页，核心方法很清晰：先用首图锁住构图，左侧留给标题、按钮和导航，右侧放主体画面；再把首图变成轻微运动的视频；最后用代码把可编辑的网页内容叠上去。最后还把整个流程封装成一个Skill并开源。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "冷逸这篇文章适合刚开始学AI的普通用户，尤其是想用AI写方案、做图、做页面、整理资料的人。Markdown 用来把需求写清楚；SVG用来做可修改的图；HTML用来生成网页、演示页和小工具；GitHub 用来找资源、存作品；Skill 用来把重复流程整理成AI能执行的说明书。小白可以从这里开始补基础。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "做Coding Agent，很多人盯着“哪个模型最强”，但OpenCode的增长提醒我们：选择权本身也能变成产品。OpenCode 不押单一模型，而是把70+模型、价格、上下文和供应商接入整理成可用能力，凭借多模型自由选择的差异化优势快速抢占市场，半年月活从65万冲到1300万。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "作者从光年之外裸辞后，两个月写了30万行代码，复盘了长程Agent的真实落地链路：上下文怎么控、Skill/Tool/Memory 怎么服务任务、为什么要用文档协同、为什么评测和真实 user case 比概念更重要。后面还聊到垂直/通用 Agent、一级市场降温、大厂裁员和出海投流。想看一线 AI 创业者怎么自己下场找方向，这篇会带给你启发。",
+      "date": "2026-07-30",
+      "title": "这篇文章适合正在用 Coding Agent 做项目的开发者、产品型创作者看。宝玉讲了一个很关键的转变：用 AI 编程时，人不用一直盯着每一行代码，从Tech Lead转向Engineering Manager。前者更关注实现细节和代码审查；后者更关注目标、方案、验收和结果。AI 编程真正的瓶颈也正在从“会不会写代码”变成“能不能想清楚要做什么”。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 41,
+  "count_7d": 42,
   "updates_7d": [
+    {
+      "date": "2026-07-30",
+      "title": "这篇文章适合正在用 Coding Agent 做项目的开发者、产品型创作者看。宝玉讲了一个很关键的转变：用 AI 编程时，人不用一直盯着每一行代码，从Tech Lead转向Engineering Manager。前者更关注实现细节和代码审查；后者更关注目标、方案、验收和结果。AI 编程真正的瓶颈也正在从“会不会写代码”变成“能不能想清楚要做什么”。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-07-29",
       "title": "现在聊大模型，很多人一头扎进参数、架构和算力。但这篇文章有个很妙的观察：AI核心圈越来越像一份“物理系就业报告”。文章从 Anthropic、Scaling Laws、ImageNet、扩散模型、grokking 等例子切入，拆解了物理训练为什么在今天变得值钱：会把复杂系统压成少数关键变量，会用实验和测量逼出现象，也敢承认理论边界。读完你或许会更理解，大模型正在变成一门研究“人造自然”的实验科学。",
