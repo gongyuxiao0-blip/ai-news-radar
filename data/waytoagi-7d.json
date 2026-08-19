@@ -1,15 +1,25 @@
 {
-  "generated_at": "2026-08-19T16:35:10.582681Z",
+  "generated_at": "2026-08-19T17:29:42.497441Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-08-19",
-  "count_today": 3,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-08-19",
       "title": "这期播客集合了多位硅谷从业者的实战经验，揭开了拉开AI产出差距的真正根源。这些人的工具清单并不神秘，区别在于使用方式。一起来看看他们都是怎么使用的！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-19",
+      "title": "最近作者写了不少关于独立开发的思考，想着要汇总一下，就把他的一款产品从开源CLI做到Mac付费软件这一路聊一聊：他当时是怎么想的，哪些事情做下来真的有用，也许能给正在做自己作品的朋友一些输入。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-19",
+      "title": "拥有二十年游戏行业经验的猫叔，结合自身实战的判断力与AI的体系化知识，开源了一个五十多万字的RPG设计宝典。内容覆盖从立项到上线完整环节，还有问题急救附录与AI辅助生产的落地方案。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -23,11 +33,21 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 19,
+  "count_7d": 21,
   "updates_7d": [
     {
       "date": "2026-08-19",
       "title": "这期播客集合了多位硅谷从业者的实战经验，揭开了拉开AI产出差距的真正根源。这些人的工具清单并不神秘，区别在于使用方式。一起来看看他们都是怎么使用的！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-19",
+      "title": "最近作者写了不少关于独立开发的思考，想着要汇总一下，就把他的一款产品从开源CLI做到Mac付费软件这一路聊一聊：他当时是怎么想的，哪些事情做下来真的有用，也许能给正在做自己作品的朋友一些输入。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-19",
+      "title": "拥有二十年游戏行业经验的猫叔，结合自身实战的判断力与AI的体系化知识，开源了一个五十多万字的RPG设计宝典。内容覆盖从立项到上线完整环节，还有问题急救附录与AI辅助生产的落地方案。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
