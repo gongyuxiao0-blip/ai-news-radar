@@ -33037,5 +33037,12 @@
   "Suggested patches open in Claude Code on the web, using the models your team already uses. These updates are part of our work to give defenders greater access to Mythos results without requiring direct access to the m...": "建议的补丁会在网络上的 Claude Code 中打开，使用您的团队已使用的模型。这些更新是我们工作的一部分，旨在让防御者能够更好地访问 Mythos 结果，而无需直接访问主机...",
   "Point Claude Security at a GitHub repo and Mythos scans for vulnerabilities tracing data across files and reasoning about how components interact. Each finding comes back with a CWE category, confidence and severity r...": "GitHub 存储库中的 Point Claude Security 和 Mythos 扫描漏洞，跟踪跨文件的数据并推理组件如何交互。每项发现都带有 CWE 类别、置信度和严重性 r...",
   "Three ways to smuggle SQLite into Nix": "将 SQLite 偷运到 Nix 的三种方法",
-  "Instinct is very well done. I'm particularly impressed by how smooth the onboarding experience is to connect iMessages, Google Workspace, and my MCPs. The best builder prioritize onboarding and new user needs :) Insti...": "《本能》做得非常好。连接 iMessage、Google Workspace 和我的 MCP 的流畅入门体验给我留下了特别深刻的印象。最好的构建者优先考虑入职和新用户需求:) Insti..."
+  "Instinct is very well done. I'm particularly impressed by how smooth the onboarding experience is to connect iMessages, Google Workspace, and my MCPs. The best builder prioritize onboarding and new user needs :) Insti...": "《本能》做得非常好。连接 iMessage、Google Workspace 和我的 MCP 的流畅入门体验给我留下了特别深刻的印象。最好的构建者优先考虑入职和新用户需求:) Insti...",
+  "Talent Hub OpenCodex": "人才中心 OpenCodex",
+  "Gemini for Students": "双子座学生",
+  "AutoClaw": "自动爪",
+  "Canada will match US tariffs 'dollar for dollar' as trade talks break down": "随着贸易谈判破裂，加拿大将“以美元对美元”征收关税",
+  "S&P 500 CEO median pay hits $17.3M, widening CEO-worker ratio to 312-to-1": "标准普尔 500 指数 CEO 中位薪酬达到 1,730 万美元，CEO 与员工的比例扩大至 312 比 1",
+  "OTel isn’t going well": "OTel 进展不顺利",
+  "Zig’s io.threaded is neat": "Zig 的 io.threaded 很简洁"
 }
