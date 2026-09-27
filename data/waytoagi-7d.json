@@ -1,15 +1,20 @@
 {
-  "generated_at": "2026-09-27T19:10:37.370641Z",
+  "generated_at": "2026-09-27T22:28:44.227006Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-09-27",
-  "count_today": 3,
+  "count_today": 4,
   "updates_today": [
     {
       "date": "2026-09-27",
       "title": "本周顶刊 AI 论文合集直击 Agent 开发的各类痛点：涵盖长上下文注意力优化、代码智能体低成本自迭代、机器人图世界规划、Wiki 知识检索、低成本模型裁判方案，还有自组织多智能体、全自动科研智能体等创新方向。附带详实的基准数据，不管是做模型推理优化、搭建多智能体系统，还是设计评估链路，都能快速挖到可复用技术思路。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-27",
+      "title": "作者用Pi SDK和Jev搭建了一个自定义的Harness，把Agent循环里的关键决策拆成了三层：Router负责按任务难度选便宜模型还是强模型，Gate在每次工具调用前判断是否危险、是否需要人工审批，Verifier在最终交付前检查答案质量和依据。Jev是一个专门为这些决策构建的小型模型。你描述情况并提出几个问题，它用数字回答每一个问题。它从不写文本。当你构建自定义harness 时，这一点最为重要！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -23,11 +28,16 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 13,
+  "count_7d": 14,
   "updates_7d": [
     {
       "date": "2026-09-27",
       "title": "本周顶刊 AI 论文合集直击 Agent 开发的各类痛点：涵盖长上下文注意力优化、代码智能体低成本自迭代、机器人图世界规划、Wiki 知识检索、低成本模型裁判方案，还有自组织多智能体、全自动科研智能体等创新方向。附带详实的基准数据，不管是做模型推理优化、搭建多智能体系统，还是设计评估链路，都能快速挖到可复用技术思路。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-27",
+      "title": "作者用Pi SDK和Jev搭建了一个自定义的Harness，把Agent循环里的关键决策拆成了三层：Router负责按任务难度选便宜模型还是强模型，Gate在每次工具调用前判断是否危险、是否需要人工审批，Verifier在最终交付前检查答案质量和依据。Jev是一个专门为这些决策构建的小型模型。你描述情况并提出几个问题，它用数字回答每一个问题。它从不写文本。当你构建自定义harness 时，这一点最为重要！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
